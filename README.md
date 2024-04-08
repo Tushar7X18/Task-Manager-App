@@ -19,3 +19,5 @@ GMAIL_PASSWORD=password created inside 'App Password' section under google accou
 PORT=8000
 JWT_SECRET=a random secret key eg. thisisasecretkey
 ```
+# Live Deploy Link
+https://todo-app-b96a5.web.app/
